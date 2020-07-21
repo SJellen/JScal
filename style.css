@@ -100,14 +100,14 @@ body {
   max-width: 15em;
   overflow: hidden;  
 }
-
-.calculator__display {
+/* 
+.calculator-screen {
     background-color: #222222;
     color: #fff;
     font-size: 1.714285714em;
     padding: 0.5em 0.75em;
     text-align: right;
-}
+} */
 
 .calculator__keys {
     background-color: rgb(26, 22, 22);
