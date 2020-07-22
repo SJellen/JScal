@@ -110,3 +110,10 @@ body {
   grid-column: -2;
   grid-row: 2 / span 4;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .calculator {
+    transform: scale(.75);
+  }
+}
